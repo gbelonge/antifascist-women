@@ -21,13 +21,9 @@ Now Marion Pritchard, was born Marion van Binsbergen in November 1920 in Amsterd
   image-path="images/figure_1.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Young Marion Pritchard"
   text=chile_origins_text
 %}
-
-{% include typography/pullquote.html text="\"Young Marion Pritchard.\"" %}
-
-
 
 
 ## German Occupation of the Netherlands
@@ -44,7 +40,7 @@ Most significantly, she helped hide Fred Polak and his three children at a house
 
 ## Aftermath of the war
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
+{% include typography/pullquote.html text="\“The greatest rescuers of children were the parents who gave them up.”\"" %}
 
 By the end of the war 75 - 80% of the Netherlands jewish population had been or murdered. And of the 107,000 Dutch jews deported to concentration camps, only 5,200 survived. After the war, Marion joined the United Nations Relief and Rehabilitation (UNNRA). She worked in social services at Föhrenwald and Windsheim, aiding individuals displaced by the war. There, she met Anton Pritchard, an American soldier who was also volunteering with the UNNRA, and they eventually married, moving to the United States and settling in Boston, Massachusetts. In 1981, she was named one of the Righteous Among the Nations by Yad Vashem in Jerusalem. She spent the rest of her life as a practicing psychoanalyst, and was awarded the Wallenberg Medal in 1992 for her actions during the Holocaust. 
 
