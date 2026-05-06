@@ -1,8 +1,8 @@
 ---
 title: "Marion Phillippina Pritchard"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/manifest.yml
+thumbnail: images/manifest.yml
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
