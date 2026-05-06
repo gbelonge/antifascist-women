@@ -1,8 +1,8 @@
 ---
 title: "Marion Phillippina Pritchard"
 layout: scrollstory
-header-image: essays/marionpritchard/images/marion pritchard.jpg
-thumbnail: essays/marionpritchard/images/marion pritchard.jpg
+header-image: images/marion_pritchard.jpg
+thumbnail: images/marion_pritchard.jpg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
@@ -18,7 +18,7 @@ Now Marion Pritchard, was born Marion van Binsbergen in November 1920 in Amsterd
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/!(<images/marionpritchard.jpg>)"
+  image-path="images/!(<images/marion_pritchard.jpg>)"
   image-position="left"
   image-width="48%"
   caption="Young Marion Pritchard"
