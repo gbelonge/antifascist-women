@@ -13,7 +13,6 @@ In May of 1940, Germany invaded the Netherlands. And in July of 1942, mass depor
 
 ## Early Life
 
-{% capture chile_origins_text %}
 Now Marion Pritchard, was born Marion van Binsbergen in November 1920 in Amsterdam to vehemently anti-Nazi parents. From the beginning she had opposed the Nazi regime, but was eventually encouraged to take action when she bore witness to Nazi soldiers violently rounding up Jewish children for deportation. The preceding year, Pritchard, only nineteen, had spent six months in prison for illegally listening to the BBC at a peers house. However, it wasn’t until she was released and bore witness to the abduction of small children off the streets where she grew up that she decided to take action. "I was shocked and in tears, and after that I knew my rescue work was more important than anything else I might be doing"
 {% endcapture %}
 
@@ -21,8 +20,7 @@ Now Marion Pritchard, was born Marion van Binsbergen in November 1920 in Amsterd
   image-path="images/!(<images/marionpritchardold.jpeg>)"
   image-position="left"
   image-width="48%"
-  caption="Young Marion Pritchard"
-  text=chile_origins_text
+  caption="Marion Pritchard"
 %}
 
 
