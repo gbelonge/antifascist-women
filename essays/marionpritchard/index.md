@@ -1,8 +1,8 @@
 ---
 title: "Marion Phillippina Pritchard"
 layout: scrollstory
-header-image: images/manifest.yml
-thumbnail: images/manifest.yml
+header-image: essays/marionpritchard/images/marion pritchard.jpg
+thumbnail: essays/marionpritchard/images/marion pritchard.jpg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
@@ -18,7 +18,7 @@ Now Marion Pritchard, was born Marion van Binsbergen in November 1920 in Amsterd
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/!(<images/marionpritchard.jpg>)"
   image-position="left"
   image-width="48%"
   caption="Young Marion Pritchard"
@@ -42,13 +42,12 @@ Most significantly, she helped hide Fred Polak and his three children at a house
 
 {% include typography/pullquote.html text="\“The greatest rescuers of children were the parents who gave them up.”\"" %}
 
-By the end of the war 75 - 80% of the Netherlands jewish population had been or murdered. And of the 107,000 Dutch jews deported to concentration camps, only 5,200 survived. After the war, Marion joined the United Nations Relief and Rehabilitation (UNNRA). She worked in social services at Föhrenwald and Windsheim, aiding individuals displaced by the war. There, she met Anton Pritchard, an American soldier who was also volunteering with the UNNRA, and they eventually married, moving to the United States and settling in Boston, Massachusetts. In 1981, she was named one of the Righteous Among the Nations by Yad Vashem in Jerusalem. She spent the rest of her life as a practicing psychoanalyst, and was awarded the Wallenberg Medal in 1992 for her actions during the Holocaust. 
+By the end of the war 75 - 80% of the Netherlands jewish population had been or murdered. And of the 107,000 Dutch jews deported to concentration camps, only 5,200 survived. Marion herself was not a subject of the terror of the Holocaust, but when it came time to take action, she was proactive in protecting those in society who need it most, children. At a young age she put herself in danger to help families in need. Many believe that resistance doesn’t matter, and doesn’t change anything. Marion saving the lives of jewish children and families during the war serves as a reminder that standing in opposition to injustice is a choice that we can all get to make.
 
 
 ## Post-War Life
 
-Marion herself was not a subject of the terror of the Holocaust, but when it came time to take action, she was proactive in protecting those in society who need it most, children. At a young age she put herself in danger to help families in need. Many believe that resistance doesn’t matter, and doesn’t change anything. Marion saving the lives of jewish children and families during the war serves as a reminder that standing in opposition to injustice is a choice that we can all get to make.
-
+After the war, Marion joined the United Nations Relief and Rehabilitation (UNNRA). She worked in social services at Föhrenwald and Windsheim, aiding individuals displaced by the war. There, she met Anton Pritchard, an American soldier who was also volunteering with the UNNRA, and they eventually married, moving to the United States and settling in Boston, Massachusetts. In 1981, she was named one of the Righteous Among the Nations by Yad Vashem in Jerusalem. She spent the rest of her life as a practicing psychoanalyst, and was awarded the Wallenberg Medal in 1992 for her actions during the Holocaust. 
 
 
 
